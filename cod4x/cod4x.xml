@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<image>
+  <steamgame>N</steamgame>
+  <appID/>
+  <serverID/>
+  <updates>1</updates>
+  <shorten>cod4x</shorten>
+  <description>Call of Duty 4 - CoD4x</description>
+  <type>gserver</type>
+  <gamebinary>cod4x18_dedrun</gamebinary>
+  <gamebinaryWin/>
+  <binarydir/>
+  <modfolder/>
+  <fps/>
+  <slots>0</slots>
+  <map/>
+  <mapGroup/>
+  <cmd>./%binary% +set dedicated 2 +exec server.cfg +set fs_basepath %absolutepath%/ +set fs_homepath %absolutepath%/.callofduty4 +set net_ip %ip% +set net_port %port% +set sv_maxclients %slots% +map_rotate</cmd>
+  <modcmds/>
+  <tic/>
+  <gameq/>
+  <gamemod>Y</gamemod>
+  <gamemod2/>
+  <configs>main/server.cfg</configs>
+  <configedit/>
+  <iptables/>
+  <protectedSaveCFGs/>
+  <portStep>10</portStep>
+  <portMax>1</portMax>
+  <portOne>27015</portOne>
+  <portTwo/>
+  <portThree/>
+  <portFour/>
+  <portFive/>
+  <useQueryPort>1</useQueryPort>
+  <protected>N</protected>
+  <ramLimited>N</ramLimited>
+  <ftpAccess>Y</ftpAccess>
+  <workShop>N</workShop>
+  <copyStartBinary>N</copyStartBinary>
+  <os>L</os>
+  <liveConsole>Y</liveConsole>
+  <steamGameserverToken>N</steamGameserverToken>
+</image>
