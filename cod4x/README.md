@@ -33,5 +33,3 @@ Für die Modifikation sind zusätzliche Befehle verfügbar, diese findet ihr [hi
 sv_authtoken "" // Der Authcode ist [hier](https://cod4master.cod4x.me/index.php?token_generator=true) verfügbar. Ohne diesen wird der Server nicht in der CoD4x Masterserver Liste angezeigt.
 sv_authorizemode "1" // Schränkt ein, ob Personen ohne gültigen Produktkey joinen dürfen oder nicht
 ´´´
-
-Falls Probleme oder Fragen entstehen, steht unser System-Administrator auf unserem [Discord](https://discord.gg/m4VZR44) zur Verfügung.
