@@ -26,5 +26,3 @@ sv_voice "1" // Aktiviert/Deaktiviert den Voicechat auf dem Server
 scr_teambalance "1" // Aktiviert die automatischer Verteilung von Spielern auf dem Server  
 g_allowvote "1" // Aktiviert/Deaktiviert das Voting für die nächste Map nach dem Ende der vorangegangen Map auf dem Server  
 '''
-
-Falls Probleme oder Fragen entstehen, steht unser System-Administrator auf unserem [Discord](https://discord.gg/m4VZR44) zur Verfügung.
